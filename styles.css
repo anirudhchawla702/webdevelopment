@@ -1,0 +1,129 @@
+
+body{
+font-family: 'Arimo', sans-serif;
+text-align: center;
+}
+
+
+.navbar{
+  padding: 0 0 4.5rem;
+}
+
+.navbar-brand{
+  color: white;
+}
+.nav-link{
+  color: #fff;
+}
+
+.big-heading{
+  font-family: 'Arimo', sans-serif;
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+.feature-title{
+  font-size: 1.5rem;
+}
+
+.container-fluid{
+  padding: 3% 15%;
+}
+
+img{
+  width: 300px;
+  height: 250px;
+}
+
+/* Navigation-Bar */
+
+.navbar{
+  padding-bottom: 4.5rem;
+}
+
+.navbar-brand{
+  font-family: 'Arimo', sans-serif;
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+.nav-item{
+  padding: 0 18px;
+}
+
+.nav-link{
+  font-size: 1.2rem;
+  font-family: 'Arimo', sans-serif;
+}
+
+/* Download Buttons */
+.download-button{
+  margin: 5% 3% 5% 0%;
+
+}
+
+/* Title image */
+.rotate{
+  width: 60%;
+
+}
+
+/* features section */
+#features{
+  padding: 7% 15%;
+}
+
+.icon{
+  color: #ef8172;
+  margin-bottom: 1rem;
+}
+
+.icon:hover{
+  color: #ff4c68;
+}
+
+
+/* testimonial section */
+#testimonials{
+  padding: 7% 15%;
+}
+
+.download-button{
+  margin: 5% 3% 5% 0%;
+
+}
+#cta{
+  padding: 7% 15%;
+}
+
+.price-text{
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+h4{
+  color: #fff;
+  font-size: 100px;
+}
+
+#footer{
+  padding: 7% 15%;
+}
+
+.social-icon{
+  margin: 20px 10px;
+}
+
+.ani{
+  color: #fff;
+}
+
+/* secitons */
+.white-section{
+  background-color: #fff;
+}
+
+.colored-section{
+  background-color: #ff1e56;
+  color: #fff;
+}
